@@ -18,7 +18,6 @@ The dataset contains **62 Apple products** with the following features:
 - Python
 - Jupyter Notebook
 - Pandas
-- Matplotlib / Seaborn
 - NumPy
 
 ## 🔍 Key Analyses Performed
